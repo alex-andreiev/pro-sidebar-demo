@@ -4,4 +4,7 @@ require("@rails/activestorage").start()
 require("channels")
 
 require("jquery/src/jquery")
+require("malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.js")
+require("jquery-mousewheel/jquery.mousewheel.js")
 require("bootstrap/dist/js/bootstrap")
+require("./sidebar")
